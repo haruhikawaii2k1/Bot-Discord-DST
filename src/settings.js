@@ -20,7 +20,7 @@ var settings = {
             "cmdUnlink": function(){return `${settings.data.prefix}${this.unlink}`}
         },
         "pathGame": "D:/SteamLibrary/steamapps/common/Don't Starve Together", //thay đường dẫn game tại đây, LƯU Ý dấu ngăn cách thư mục phải là dấu "/"
-        "token": "OTU2MDU2MDk1ODc1NTUxMjYz.Gy3gQL.hBLD1FgVtpz-btag0YT29AA_LehMgMoIWSCdls",
+        "token": "",
         "admin": [
             "357107576896487425", //admin 1
             "id_user_discord_2", //admin 2
